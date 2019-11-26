@@ -2006,7 +2006,6 @@ p100 {
 h223 {
   font-size: 30px;
   line-height: 1.2em;
-  left:15em;
   position:relative;
 }
 
@@ -2015,4 +2014,13 @@ p555 {
   padding-bottom: 20px;
 }
 
+h666 {
+  font-size: 15px;
+}
+
+p1126 {
+  font-size: 15px;
+  margin-bottom: 15px;
+  line-height: 2em;
+}
 

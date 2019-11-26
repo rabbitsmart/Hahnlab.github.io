@@ -170,7 +170,7 @@ header .navbar-inverse .navbar-inner {
 header .navbar .brand.logo {
   padding: 0;
   margin-left:0;
-  margin-top:20px;
+  margin-top:15px;
 }
 
 
@@ -446,6 +446,11 @@ section#subintro {
 	margin:0;
 	text-align:right;
 	padding:20px;
+}
+
+.ctta {
+	text-align:center;
+	padding-top:10px
 }
 
 
@@ -951,6 +956,10 @@ article  span.comment{
 
 article button.btn{
 	margin-bottom:10px;
+}
+
+.researcher_image{
+	margin-bottom: 15px;
 }
 
 article.blog-post img{
@@ -1811,3 +1820,38 @@ ul.portfolio-area li {
 .professor_image{width:85%;}
 
 .nav nav-tabs{margin-bottom:0px;}
+
+.WLF{text-align:center;}
+
+.WLFP{text-align:center;}
+
+.btn-style1{
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+
+.btn-style2{
+	margin-right:10px;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+.btn-style3{
+	margin-right:10px;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+
+
+.btn-style4{
+	margin-right:0px;
+	margin-left:0px;
+	margin-bottom:10px;
+}
+
+.tagline_text1{
+	margin: 0;
+	padding: 20px 0 20px 20px;
+	text-align: center;
+}
+
